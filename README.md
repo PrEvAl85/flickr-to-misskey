@@ -30,6 +30,7 @@ The code uses OpenCage Geocoder APIs to translate numeric coordinates into human
 
 OPENCAGE_API_KEY = ''
 
+Launch - `python map_misskey.py` or `python3 map_misskey.py`
 ______________________________
 # IMPORTANT!
 Before using this code, please read the Flickr API rules.
