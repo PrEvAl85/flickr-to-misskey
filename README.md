@@ -41,4 +41,7 @@ BSC (BEP20) USDT - 0x0905134db34d8d54abf5b60a55406821ed7b8de0
 
 or here
 
+https://www.donationalerts.com/r/photowithoutstudio - Don't freak out, it's my Photoshop project))) 
+(https://www.youtube.com/@p.w.s)
+
 https://boosty.to/pws/donate
