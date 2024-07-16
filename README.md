@@ -29,3 +29,11 @@ FLICKR_SECRET = ''
 The code uses OpenCage Geocoder APIs to translate numeric coordinates into human-readable coordinates. Also insert your own:
 
 OPENCAGE_API_KEY = ''
+
+______________________________
+# IMPORTANT!
+Before using this code, please read the Flickr API rules.
+The author of the code is not responsible for how the data received from FLICKR will be used!
+-------------------------------
+Friends, please who can thank me with a cup of coffee, I'd be very happy to!
+BSC (BEP20) USDT - 0x0905134db34d8d54abf5b60a55406821ed7b8de0
