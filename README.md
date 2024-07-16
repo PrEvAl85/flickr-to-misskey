@@ -5,12 +5,20 @@ The publication will look like this:
 
 ![Screenshot_1](https://github.com/user-attachments/assets/3448391a-5679-4ce4-97ac-0f9b85609768)
 
+# Перед запуском проверь:
+
+Установлены ли библиотеки
+
+```
+pip install misskey
+```
+
 
 The code uses Misskey's APIs, which you must change to your own:
 
-MISSKEY_API_BASE_URL = 'https://misskey.io'
+MISSKEY_API_BASE_URL = ''
 
-ACCESS_TOKEN = 'your_misskey_access_token'
+ACCESS_TOKEN = ''
 
 The code uses Flickr's APIs, which you have to insert as well:
 
