@@ -5,9 +5,9 @@ The publication will look like this:
 
 ![Screenshot_1](https://github.com/user-attachments/assets/3448391a-5679-4ce4-97ac-0f9b85609768)
 
-# Перед запуском проверь:
+# Check it before you start:
 
-Установлены ли библиотеки
+Are the libraries installed
 
 ```
 pip install misskey
