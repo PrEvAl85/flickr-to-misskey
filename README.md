@@ -40,6 +40,10 @@ Friends, please who can thank me with a cup of coffee, I'd be very happy to!
 
 BSC (BEP20) USDT - 0x0905134db34d8d54abf5b60a55406821ed7b8de0
 
+TRON (TRC20) USDT - TRcWS42MhyFRGdGSc6LqTH8CdTy6pLUMn6
+
+TON (USDT) - UQDCLQJ6fFEV7NpCJJULiqYKDd0wY5m75qC0mWwOXQvPCP23
+
 or here
 
 https://www.donationalerts.com/r/photowithoutstudio - Don't freak out, it's my Photoshop project))) 
